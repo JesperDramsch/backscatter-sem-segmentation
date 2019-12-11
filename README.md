@@ -8,10 +8,10 @@ We use Gaussian Mixture Models to find the optimal separation of chalk (oolites)
 
 ![](fig/segmentation.png)
 
-Then we apply morphological filtering to smoothe out the edges in the notebook [SEM Segmentation.ipynb](SEM Segmentation.ipynb)
+Then we apply morphological filtering to smoothe out the edges in the notebook [SEM Segmentation.ipynb](SEM%20Segmentation.ipynb)
 
 ![](fig/segmentation_small.png)
 
-We then perform granulometry on the perimeters of each grain in the notebook [SEM Granulometry.ipynb](SEM Granulometry.ipynb)
+We then perform granulometry on the perimeters of each grain in the notebook [SEM Granulometry.ipynb](SEM%20Granulometry.ipynb)
 
 ![](fig/grain_sizes.png)
